@@ -5,14 +5,14 @@ It is designed to showcase debugging, refactoring, and writing maintainable code
 
 ---
 
-## 🔍 Motivation  
+##  Motivation  
 
 As a software engineer, debugging is one of the most valuable skills.  
 This repo highlights how to identify common mistakes and improve code quality by showing buggy examples alongside their fixed versions.  
 
 ---
 
-## 🐛 Example: Division by Zero  
+##  Example: Division by Zero  
 
 **Buggy Code:**  
 ```python
